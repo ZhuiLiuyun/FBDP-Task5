@@ -129,7 +129,8 @@ main(args):
 ```
 ## 运行结果示例
 
-![alt text](<屏幕截图 2025-10-27 222031.png>)
+<img width="2479" height="1424" alt="屏幕截图 2025-10-27 222031" src="https://github.com/user-attachments/assets/f729d10c-9b37-4a87-ae4b-2ae3635cc99c" />
+
 
 ## 主要问题
 - 第一次运行时发现结果很少（negative里甚至不足100个），经过分析，是在统计时将出现次数相同的词只输出了一个，调整后解决
